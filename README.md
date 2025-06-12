@@ -5,10 +5,10 @@ This project demonstrates how to build an end-to-end data pipeline to extract, c
 ## 📦 Project Structure
 
 IMDb-Movie-Reviews/
-├── Milestone 1.ipynb # Web scraping with requests + BeautifulSoup
-├── Milestone 2.ipynb # Data cleaning, normalization, encoding
-├── cleaned_top_IMDB_db.csv # Final cleaned dataset (250 records)
-├── README.md # Project documentation (this file)
+- Milestone 1.ipynb # Web scraping with requests + BeautifulSoup
+- Milestone 2.ipynb # Data cleaning, normalization, encoding
+- cleaned_top_IMDB_db.csv # Final cleaned dataset (250 records)
+- README.md # Project documentation (this file)
 
 
 ## 🚀 Getting Started
