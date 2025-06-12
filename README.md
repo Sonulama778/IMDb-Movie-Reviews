@@ -59,6 +59,7 @@ Genre Encoding
 One-hot encoded genres using str.get_dummies(sep=', ')
 
 🔧 Key Tools Used:
+
 re for regex
 
 MinMaxScaler from sklearn
