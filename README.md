@@ -42,7 +42,7 @@ Genre
 
 URL
 
-🔹 Milestone 2: Data Cleaning & Preprocessing
+### 🔹 Milestone 2: Data Cleaning & Preprocessing
 Duration Extraction
 Used regex to parse strings like "PT2H22M" into integer minutes
 
@@ -71,7 +71,7 @@ Duration values default to 0 when not available
 
 Genre columns are multi-labeled and split correctly
 
-✅ Final Output
+### ✅ Final Output
 The cleaned dataset (cleaned_top_IMDB_db.csv) contains:
 
 250 movies
@@ -90,13 +90,13 @@ Ready for:
 
 📈 Time Series or EDA
 
-✍️ Author
+### ✍️ Author
 Sonu Tamang
 📍 Newark, NJ
 🔗 LinkedIn
 📧 sonulama778@gmail.com
 
-📌 License
+### 📌 License
 This project is shared under the MIT License. Feel free to reuse or build on it.
 
 
