@@ -19,6 +19,8 @@ Install the required packages:
 
 ```bash
 pip install pandas requests beautifulsoup4 scikit-learn
+```
+
  Usage Guide
 🔹 Milestone 1: Web Scraping
 Scraped IMDb Top 250 using Python requests and BeautifulSoup
