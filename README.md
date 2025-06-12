@@ -21,8 +21,9 @@ Install the required packages:
 pip install pandas requests beautifulsoup4 scikit-learn
 ```
 
- Usage Guide
-🔹 Milestone 1: Web Scraping
+ ## 📜 Usage Guide
+### 🔹 Milestone 1: Web Scraping
+
 Scraped IMDb Top 250 using Python requests and BeautifulSoup
 
 Extracted fields from JSON-LD embedded in <script type="application/ld+json">
